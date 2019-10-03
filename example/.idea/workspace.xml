@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd00bccd-c196-43e6-870d-0e95d37d59cc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/jline3" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RcqQhSO5SVIFUDm8GhUVPgvmrI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-example" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/Users/saurabh.k.pandey/Documents/projects/9.training/Scala%20Spark%20Self%20Learning/example/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-example-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="18232611196000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2959508787" />
+        <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2286689913" />
+        <entry key="$PROJECT_DIR$/project/Courses.scala" value="1290868088" />
+        <entry key="$PROJECT_DIR$/project/GradingFeedback.scala" value="1185184919" />
+        <entry key="$PROJECT_DIR$/project/ScalaTestRunner.scala" value="288196450" />
+        <entry key="$PROJECT_DIR$/project/Settings.scala" value="3362305541" />
+        <entry key="$PROJECT_DIR$/project/StudentBuild.scala" value="4288349219" />
+        <entry key="$PROJECT_DIR$/project/StudentBuildLike.scala" value="2076816827" />
+        <entry key="$PROJECT_DIR$/project/StyleChecker.scala" value="1430858080" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="934637055" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="3364732609" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="3604734976" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/HellpWorl" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd00bccd-c196-43e6-870d-0e95d37d59cc" name="Default Changelist" comment="" />
+      <created>1569976718004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569976718004</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
