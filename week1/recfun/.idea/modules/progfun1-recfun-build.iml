@@ -108,7 +108,7 @@
     </orderEntry>
   </component>
   <component name="SbtModule">
-    <option name="buildForURI" value="file:$MODULE_DIR$/../../../../../Scala%20Spark%20Self%20Learning/FunctionalProgrammingPrinciplesInScala/recfun/" />
+    <option name="buildForURI" value="file:$MODULE_DIR$/../../../../../../Scala%20Spark%20Self%20Learning/FunctionalProgrammingPrinciplesInScala/week1/recfun/" />
     <option name="imports" value="StudentBuild._, _root_.com.typesafe.sbteclipse.plugin.EclipsePlugin.autoImport._, _root_.org.scalajs.jsdependencies.sbtplugin.JSDependenciesPlugin.autoImport._, _root_.org.scalajs.sbtplugin.ScalaJSPlugin.autoImport._, _root_.coursier.CoursierPlugin.autoImport._, _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.com.typesafe.sbteclipse.plugin.EclipsePlugin, _root_.org.scalajs.jsdependencies.sbtplugin.JSDependenciesPlugin, _root_.org.scalajs.sbtplugin.ScalaJSJUnitPlugin, _root_.org.scalajs.sbtplugin.ScalaJSPlugin, _root_.org.scalajs.sbtplugin.internal.ScalaJSGlobalPlugin, _root_.coursier.CoursierPlugin, sbt._, Keys._, dsl._" />
   </component>
 </module>
